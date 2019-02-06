@@ -78,7 +78,6 @@ sudo pacman -S --noconfirm --needed wget
 sudo pacman -S --noconfirm --needed wmctrl
 sudo pacman -S --noconfirm --needed unclutter
 sudo pacman -S --noconfirm --needed xdg-user-dirs
-sudo pacman -S --noconfirm --needed yay
 sudo pacman -S --noconfirm --needed zenity
 
 ###############################################################################################
