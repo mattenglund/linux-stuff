@@ -28,7 +28,6 @@ sudo pacman -S --noconfirm --needed feh
 
 echo "Installing category Internet"
 sudo pacman -S --noconfirm --needed firefox
-sudo pacman -S --noconfirm --needed transmission
 
 echo "Installing category Multimedia"
 sudo pacman -S --noconfirm --needed vlc
