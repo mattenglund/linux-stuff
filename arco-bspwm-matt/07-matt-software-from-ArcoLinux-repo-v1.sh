@@ -18,8 +18,8 @@ sudo pacman -S arcolinux-config-git --noconfirm --needed
 sudo pacman -S arcolinux-fonts-git --noconfirm --needed
 sudo pacman -S arcolinux-geany-git --noconfirm --needed
 sudo pacman -S arcolinux-kvantum-git --noconfirm --needed
-sudo pacman -S arcolinux-lightdm-gtk-greeter --noconfirm --needed
-sudo pacman -S arcolinux-lightdm-gtk-greeter-settings --noconfirm --needed
+#sudo pacman -S arcolinux-lightdm-gtk-greeter --noconfirm --needed
+#sudo pacman -S arcolinux-lightdm-gtk-greeter-settings --noconfirm --needed
 sudo pacman -S arcolinux-mirrorlist-git --noconfirm --needed
 sudo pacman -S arcolinux-neofetch-git --noconfirm --needed
 sudo pacman -S arcolinux-nitrogen-git --noconfirm --needed
